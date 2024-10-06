@@ -1,2 +1,4 @@
 # MLRocket
 This project simulates a rocket in Unity that is trained using machine learning to navigate autonomously through space, avoiding obstacles like asteroids and dust. The goal is to develop technologies applicable to various domains, from space exploration to underwater robotics. By using tools like TensorFlow
+
+The project involves a Unity simulation of a rocket trained using ML Agents to navigate through obstacle-ridden cosmic environments, including protoplanetary disks and asteroid fields. The rocket learns to reach a specified endpoint while avoiding obstacles like rocks and dust. The project leverages TensorFlow, PyTorch, and NumPy for machine learning, and Jupyter Notebook and TensorBoard for monitoring. The long-term goal is to advance autonomous navigation technologies in challenging environments, such as space, and potentially be adapted for applications like research drones and underwater vehicles.
